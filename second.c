@@ -6,5 +6,6 @@ int main(){
         printf("Hello\n");
         a++;
     }
+    printf("File berakhir");
     return 0;
 }
